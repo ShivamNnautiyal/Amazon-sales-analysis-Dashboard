@@ -1,6 +1,7 @@
 # Amazon-sales-analysis-Dashboard
 
-Objective
+Objective:
+To analyze year-wise global sales performance of Amazon from 2012–2015, with a focus on sales projections, customer profitability, regional and market insights, and product performance, in order to drive data-informed business decisions and optimize product and market strategies.
 
 Overall Metrics:
 
